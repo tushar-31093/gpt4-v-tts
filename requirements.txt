@@ -1,4 +1,5 @@
 openai==0.27.8
+ipython
 opencv-python
 streamlit
 moviepy
